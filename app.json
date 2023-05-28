@@ -11,19 +11,19 @@
     "success_url": "https://t.me/AdityaDiscus",
     "env": {
         "API_ID": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
+            "description": "17193413",
             "required": true
         },
         "API_HASH": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑯𝒂𝒔𝒉",
+            "description": "5e50e6380252d9d487093bae4171bf91",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑩𝒐𝒕 𝑻𝒐𝒌𝒆𝒏",
+            "description": "6051634511:AAGF5kIFvhLFEeNJK5iJCtzKAcCVRkph27s",
             "required": true
         },
         "STRING_SESSION": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝑷𝒚𝒓𝒐𝒈𝒓𝒂𝒎 𝑺𝒕𝒓𝒊𝒏𝒈 𝑺𝒔𝒆𝒔𝒔𝒊𝒐𝒏 𝑶𝒇 𝒀𝒐𝒖𝒓 𝑨𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕 𝑰𝑫",
+            "description": "BQBrftz5v31u4J-cfrYBc1IcsT47Bn88w9vwez7I5P-r_t0l8pECxkfcNKwBiJUNQ8mcVcQqHrcJZjsqYfCMeHZHUAcENjlgs5x-_WrVafU5dAwCa1Y7L_e_WzGIs63DE2u6YlYzmehpPHdQej6yvKoMbbmYNToAqWYqxpVS8NlIHcNGcveYDsnVLUWTPG8MyCIShYAAK--6hsu4beeGcRSAk_j-CkD8JjxV8EzZ3oiFF62xA2BHNwEF5GQMDaS12XCmFKQRWoHG1zWSvBIvGDVTvPbmNhSFccmAOMDvJwvcX32hudbcqoJ0bTmglFlNiKx-UmP6cA4cJalARUGyr9VCVq5m5QA",
             "required": true
         },
         "DURATION_LIMIT": {
@@ -32,15 +32,15 @@
             "value": "60"
         },
         "MONGO_DB_URL": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝑴𝒐𝒏𝒈𝒐 𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆 𝑼𝑹𝑳",
+            "description": "mongodb+srv://powermovies:powermovies11@cluster0.je3b1k7.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "OWNER_ID": {
-            "description": "𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎 𝑼𝒔𝒆𝒓 𝑰𝑫 𝑶𝒇 𝑩𝒐𝒕 𝑶𝒘𝒏𝒆𝒓",
+            "description": "1606667548",
             "required": true
         },
         "LOG_GROUP_ID": {
-            "description": "𝑩𝒐𝒕 𝑳𝒐𝒈𝒈𝒆𝒓 𝑮𝒓𝒐𝒖𝒑 𝑰𝑫",
+            "description": "-1001693783430",
             "required": true
         },
         "MUSIC_BOT_NAME": {
